@@ -18,7 +18,7 @@ I'm open to job offers💼
 
 As for my interests, it's simple. I love chess and billiards. I have a yellow belt in karate🥋 and I love spending time with my friends.
 
-`You can find me here:`
+**You can find me here:**
 * Telegram: @The_W_T_F
 * My Telegram channel: https://t.me/cozyyrooom
 * Discord: 𝓝𝓲𝓱𝓲𝓵𝓾𝓼 ©#5674
