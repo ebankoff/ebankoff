@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi, I'm Ebankoff 🖖 
 
-<!--
-**ebankoff/ebankoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Dependabot](https://badgen.net/badge/telegram/telegram/yellow?icon=telegram&label)](https://t.me/cozyyrooom) [![Dependabot](https://badgen.net/badge/discord/discord/yellow?icon=discord&label)](https://discord.gg/UVEjx6UjNT)
 
-Here are some ideas to get you started:
+```C++
+#include <iostream>
+using namespace std;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+int main() {
+  Cout << "I don’t care what you think about me. I don’t think about you at all"
+}
+```
+
+I am currently studying to become an information security specialist. 
+I know C++, C#, Python and Swift. In my free time, I develop bots for Discord and Telegram. I can make a website to order💻
+I am open to job offers.
+As for my interests, it's simple. I love chess, I have a yellow belt in karate🥋 and I love spending time with my friends.
+
+`You can find me here`
+* Telegram: @The_W_T_F
+* My Telegram channel: https://t.me/cozyyrooom
+* Discord: 𝓝𝓲𝓱𝓲𝓵𝓾𝓼 ©#5674
+* My Discord server: https://discord.gg/UVEjx6UjNT 
+* Steam: https://steamcommunity.com/id/lWTFl/
+* Habr: https://habr.com/ru/users/Ebanko/
+* Reddit: https://www.reddit.com/user/Ebankoff
+
+![Something](https://www.youtube.com/watch?v=KP4LoBFMNmw "Something")
