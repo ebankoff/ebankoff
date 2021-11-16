@@ -25,4 +25,4 @@ As for my interests, it's simple. I love chess, I have a yellow belt in karateðŸ
 * Habr: https://habr.com/ru/users/Ebanko/
 * Reddit: https://www.reddit.com/user/Ebankoff
 
-![Something](https://www.youtube.com/watch?v=KP4LoBFMNmw "Something")
+![Something](https://i.ibb.co/VQp6rkX/3t6in7.png "Something")
