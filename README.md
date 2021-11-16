@@ -16,7 +16,7 @@ I know C++, C#, Python and Swift. In my free time, I develop bots for Discord an
 I am open to job offers.
 As for my interests, it's simple. I love chess, I have a yellow belt in karate🥋 and I love spending time with my friends.
 
-`You can find me here`
+`You can find me here:`
 * Telegram: @The_W_T_F
 * My Telegram channel: https://t.me/cozyyrooom
 * Discord: 𝓝𝓲𝓱𝓲𝓵𝓾𝓼 ©#5674
