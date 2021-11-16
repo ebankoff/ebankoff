@@ -1,4 +1,4 @@
-# Hi, I'm Ebankoff 🖖 
+# Hi, I'm Eban'ko 🖖 
 
 [![Dependabot](https://badgen.net/badge/telegram/telegram/yellow?icon=telegram&label)](https://t.me/cozyyrooom) [![Dependabot](https://badgen.net/badge/discord/discord/yellow?icon=discord&label)](https://discord.gg/UVEjx6UjNT)
 
