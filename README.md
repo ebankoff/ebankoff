@@ -1,6 +1,6 @@
 # Hi, I'm Eban'ko 🖖 
 
-[![Dependabot](https://badgen.net/badge/telegram/telegram/yellow?icon=telegram&label)](https://t.me/cozyyrooom) [![Dependabot](https://badgen.net/badge/discord/discord/yellow?icon=discord&label)](https://discord.gg/UVEjx6UjNT)
+[![Button](https://badgen.net/badge/github/github/black?icon=github&label)](https://github.com/ebankoff/BoMbEr) [![Button](https://badgen.net/badge/github/github/black?icon=github&label)](https://github.com/ebankoff/proxy_scraper) [![Button](https://badgen.net/badge/telegram/telegram/yellow?icon=telegram&label)](https://t.me/cozyyrooom) [![Button](https://badgen.net/badge/discord/discord/yellow?icon=discord&label)](https://discord.gg/UVEjx6UjNT)
 
 ```C++
 #include <iostream>
