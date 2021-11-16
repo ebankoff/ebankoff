@@ -1,6 +1,6 @@
 # Hi, I'm Eban'ko 🖖 
 
-[![Button](https://badgen.net/badge/BoMbEr/BoMbEr/purple?icon=github&label)](https://github.com/ebankoff/BoMbEr) [![Button](https://badgen.net/badge/proxy_scraper/proxy_scraper/purple?icon=github&label)](https://github.com/ebankoff/proxy_scraper) [![Button](https://badgen.net/badge/telegram/telegram/yellow?icon=telegram&label)](https://t.me/cozyyrooom) [![Button](https://badgen.net/badge/discord/discord/yellow?icon=discord&label)](https://discord.gg/UVEjx6UjNT)
+[![Button](https://badgen.net/badge/BoMbEr/BoMbEr/purple?icon=github&label)](https://github.com/ebankoff/BoMbEr) [![Button](https://badgen.net/badge/Proxy scraper/proxy_scraper/purple?icon=github&label)](https://github.com/ebankoff/proxy_scraper) [![Button](https://badgen.net/badge/telegram/telegram/yellow?icon=telegram&label)](https://t.me/cozyyrooom) [![Button](https://badgen.net/badge/discord/discord/yellow?icon=discord&label)](https://discord.gg/UVEjx6UjNT)
 
 ```C++
 #include <iostream>
