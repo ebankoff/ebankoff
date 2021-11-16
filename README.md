@@ -7,7 +7,7 @@
 using namespace std;
 
 int main() {
-  Cout << "I don’t care what you think about me. I don’t think about you at all"
+  Cout << "I don’t care what you think about me. I don’t think about you at all";
 }
 ```
 
