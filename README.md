@@ -29,4 +29,4 @@ As for my interests, it's simple. I love chess and billiards. I have a yellow be
 * Hack The Box: Ebanko#820627
 * Hackerone: https://hackerone.com/ebankoff
 
-![Something](https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif)
+[![Something](https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif)](https://github.com/ebankoff/BoMbEr)
