@@ -24,5 +24,7 @@ As for my interests, it's simple. I love chess, I have a yellow belt in karateðŸ
 * Steam: https://steamcommunity.com/id/lWTFl/
 * Habr: https://habr.com/ru/users/Ebanko/
 * Reddit: https://www.reddit.com/user/Ebankoff
+* Hack The Box: Ebanko#820627
+* Hackerone: https://hackerone.com/ebankoff
 
 ![Something](https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif)
