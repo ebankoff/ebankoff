@@ -30,6 +30,6 @@ As for my interests, it's simple. I love chess and billiards. I have a yellow be
 * Hackerone: https://hackerone.com/ebankoff
 
 
-[![Something](https://github-readme-stats.vercel.app/api?username=ebankoff&show_icons=true&theme=tokyonight)
+[![Something](https://github-readme-stats.vercel.app/api?username=ebankoff&show_icons=true&theme=tokyonight)](https://github.com/ebankoff)
 
 [![Something](https://media.giphy.com/media/LmBsnpDCuturMhtLfw/giphy.gif)](https://github.com/ebankoff/BoMbEr)
