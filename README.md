@@ -20,6 +20,8 @@ As for my interests, it's simple. I love chess and billiards. I have a yellow be
 * Hack The Box: Ebanko#820627
 * Hackerone: https://hackerone.com/ebankoff
 
+[![Something](https://github-readme-stats.vercel.app/api?username=ebankoff&show_icons=true&theme=tokyonight)](https://github.com/ebankoff)
+
 ```C
              k;double sin()
          ,cos();main(){float A=
@@ -43,7 +45,3 @@ in(B),t=c*h*g-f*        e;int x=40+30*D*
          .,~~;;;========;;;:~-.
              ..,--------,*/
 ```
-
-[![Something](https://github-readme-stats.vercel.app/api?username=ebankoff&show_icons=true&theme=tokyonight)](https://github.com/ebankoff)
-
-[![Something](https://github-readme-stats.vercel.app/api/top-langs/?username=ebankoff&layout=compact&theme=tokyonight)](https://github.com/ebankoff)
