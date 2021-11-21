@@ -2,6 +2,16 @@
 
 [![Button](https://badgen.net/badge/BoMbEr/BoMbEr/purple?icon=github&label)](https://github.com/ebankoff/BoMbEr) [![Button](https://badgen.net/badge/proxy_scraper/proxy_scraper/purple?icon=github&label)](https://github.com/ebankoff/proxy_scraper) [![Button](https://badgen.net/badge/telegram/telegram/yellow?icon=telegram&label)](https://t.me/cozyyrooom) [![Button](https://badgen.net/badge/discord/discord/yellow?icon=discord&label)](https://discord.gg/UVEjx6UjNT)
 
+```C
+#include <stdio.h>
+
+int main()
+{
+  printf("Hello, World!\n");
+  return 0;
+}
+```
+
 I'm currently studying to become an information security specialist. 
 I know C++, C#, Python and Swift. In my free time, I develop bots for Discord or Telegram and I can make a website to order💻
 
@@ -21,13 +31,3 @@ As for my interests, it's simple. I love chess and billiards. I have a yellow be
 * Hackerone: https://hackerone.com/ebankoff
 
 [![Something](https://github-readme-stats.vercel.app/api?username=ebankoff&show_icons=true&theme=tokyonight)](https://github.com/ebankoff)
-
-```C
-#include <stdio.h>
-
-int main()
-{
-  printf("Hello, World!\n");
-  return 0;
-}
-```
