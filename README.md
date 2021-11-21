@@ -34,4 +34,4 @@ As for my interests, it's simple. I love chess and billiards. I have a yellow be
 
 [![Something](https://github-readme-stats.vercel.app/api/top-langs/?username=ebankoff&layout=compact&theme=tokyonight)](https://github.com/ebankoff)
 
-[![Something](https://media.giphy.com/media/LmBsnpDCuturMhtLfw/giphy.gif)](https://github.com/ebankoff/BoMbEr)
+[![Something](https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif.gif)](https://github.com/ebankoff/BoMbEr)
