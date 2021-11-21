@@ -1,6 +1,6 @@
 # Hi, I'm Eban'ko 🖖 
 
-[![Button](https://badgen.net/badge/BoMbEr/BoMbEr/purple?icon=github&label)](https://github.com/ebankoff/BoMbEr) [![Button](https://badgen.net/badge/proxy_scraper/proxy_scraper/purple?icon=github&label)](https://github.com/ebankoff/proxy_scraper) [![Button](https://badgen.net/badge/telegram/telegram/yellow?icon=telegram&label)](https://t.me/cozyyrooom) [![Button](https://badgen.net/badge/discord/discord/yellow?icon=discord&label)](https://discord.gg/UVEjx6UjNT) [![Button](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+[![Button](https://badgen.net/badge/BoMbEr/BoMbEr/purple?icon=github&label)](https://github.com/ebankoff/BoMbEr) [![Button](https://badgen.net/badge/proxy_scraper/proxy_scraper/purple?icon=github&label)](https://github.com/ebankoff/proxy_scraper) [![Button](https://badgen.net/badge/telegram/telegram/yellow?icon=telegram&label)](https://t.me/cozyyrooom) [![Button](https://badgen.net/badge/discord/discord/yellow?icon=discord&label)](https://discord.gg/UVEjx6UjNT) [![Button](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkred)]()
 
 ```C++
 #include <iostream>
