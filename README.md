@@ -24,7 +24,7 @@ As for my interests, it's simple. I love chess and billiards. I have a yellow be
 * My Telegram channel: https://t.me/cozyyrooom
 * Discord: 𝓝𝓲𝓱𝓲𝓵𝓾𝓼 ©#5674
 * My Discord server: https://discord.gg/UVEjx6UjNT 
-* Steam: https://steamcommunity.com/id/lWTFl/
+* Steam(Add me as a friend😜): https://steamcommunity.com/id/lWTFl/
 * Habr: https://habr.com/ru/users/Ebanko/
 * Reddit: https://www.reddit.com/user/Ebankoff
 * Hack The Box: Ebanko#820627
