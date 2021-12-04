@@ -2,7 +2,7 @@
 
 [![Button](https://badgen.net/badge/BoMbEr/BoMbEr/purple?icon=github&label)](https://github.com/ebankoff/BoMbEr) [![Button](https://badgen.net/badge/proxy_scrapper/proxy_scrapper/purple?icon=github&label)](https://github.com/ebankoff/proxy_scraper) [![Button](https://badgen.net/badge/telegram/telegram/yellow?icon=telegram&label)](https://t.me/cozyyrooom) [![Button](https://badgen.net/badge/discord/discord/yellow?icon=discord&label)](https://discord.gg/UVEjx6UjNT)
 
-[hi](https://i.ibb.co/sC8hLmG/download.gif)
+[![Something](https://i.ibb.co/sC8hLmG/download.gif)](https://github.com/ebankoff)
 
 ```C
 #include <stdio.h>
