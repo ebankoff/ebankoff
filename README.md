@@ -7,7 +7,7 @@
 
 int main()
 {
-  printf("Hello, World!");
+  printf("Happy New Year!");
   return 0;
 }
 ```
