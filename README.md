@@ -24,9 +24,9 @@ I'm open to job offers💼
 As for my interests, it's simple. I love chess and billiards. I have a yellow belt in karate🥋 and I love spending time with my friends.
 
 **I make it to order:**
-* Bot for Telegram - 68$
-* Bot for Discord - 55$
-* Web site - 612$
+* Bot for Telegram - **68$**
+* Bot for Discord - **55$**
+* Web site - **612$**
 * Anything else, please ask me
 
 **You can find me here:**
