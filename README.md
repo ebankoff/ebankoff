@@ -30,7 +30,7 @@ As for my interests, it's simple. I love chess and billiards. I have a yellow be
 * Anything else, please ask me
 
 **You can find me here:**
-* Telegram: @The_W_T_F
+* Telegram: https://t.me/The_W_T_F
 * My Telegram channel: https://t.me/cozyyrooom
 * Discord: 𝓝𝓲𝓱𝓲𝓵𝓾𝓼 ©#5674
 * My Discord server: https://discord.gg/UVEjx6UjNT 
