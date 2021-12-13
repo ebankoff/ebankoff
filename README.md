@@ -42,7 +42,7 @@ As for my interests, it's simple. I love chess and billiards. I have a yellow be
 
 [![Something](https://github-readme-stats.vercel.app/api?username=ebankoff&show_icons=true&theme=tokyonight)](https://github.com/ebankoff)
 
-`Main:`
+`Qiwi:`
 
 [![wtf2](https://i.ibb.co/ryDytyR/Comp-1-00000.png)](https://qiwi.com/n/HERAMANT)
 
