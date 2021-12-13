@@ -18,9 +18,8 @@ int main()
 I'm currently studying to become an information security specialist. 
 I know C++, C#, Python and Swift. In my free time, I develop bots for Discord or Telegram.
 
-I can speak Russian🤪
-
-I'm open to job offers💼
+* I can speak Russian🤪
+* I'm open to job offers💼
 
 As for my interests, it's simple. I love chess and billiards. I have a yellow belt in karate🥋 and I love spending time with my friends.
 
