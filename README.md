@@ -13,6 +13,8 @@ int main()
 }
 ```
 
+**Hi there!**
+
 I'm currently studying to become an information security specialist. 
 I know C++, C#, Python and Swift. In my free time, I develop bots for Discord or Telegram.
 
