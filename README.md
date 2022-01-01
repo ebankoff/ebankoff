@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-  cout << "Happy New Year!";
+  cout << "Hi!";
 }
 ```
 
