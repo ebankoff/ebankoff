@@ -45,6 +45,8 @@ As for my interests, it's simple. I love chess and billiards. I have a yellow be
 
 [![wtf2](https://i.ibb.co/ryDytyR/Comp-1-00000.png)](https://qiwi.com/n/HERAMANT)
 
-`Others:`
-* **Bitcoin - 36HawtyF7yFVjhjwMdnoozeLLEBjPyMpit**
-* **Ethereum - 0x5d27523e0D66ffB54e23E539c13b9Ac7A8720bFB**
+`Crypto:`
+* **Payeer: P1063409412**
+* **smart chain: 0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
+* **bitcoin: bc1qxfvstf99kyuc5x5uugxtsh3m6w3a73ruzfav7e**
+* **ethereum: 0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
