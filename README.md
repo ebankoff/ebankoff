@@ -24,8 +24,8 @@ I know C++, C#, Python and Swift. In my free time, I develop bots for Discord or
 As for my interests, it's simple. I love chess and billiards. I have a yellow belt in karate🥋 and I love spending time with my friends.
 
 **I make it to order:**
-* Bot for Telegram - **68$**
-* Bot for Discord - **55$**
+* Bot for Telegram - **46$**
+* Bot for Discord - **26$**
 * Anything else, please ask me
 
 **You can find me here:**
