@@ -1,4 +1,4 @@
-[![Something](https://i.ibb.co/5275xcS/image.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLrpgO-fUNO4OKpFbFXb2cQlF72Yj3ppJv)
+[![Something](https://i.ibb.co/MNr6HZQ/image.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLrpgO-fUNO4OKpFbFXb2cQlF72Yj3ppJv)
 
 [![Button](https://badgen.net/badge/BoMbEr/BoMbEr/purple?icon=github&label)](https://github.com/ebankoff/BoMbEr) [![Button](https://badgen.net/badge/scraper/scraper/purple?icon=github&label)](https://github.com/ebankoff/scraper) [![Button](https://badgen.net/badge/telegram/telegram/yellow?icon=telegram&label)](https://t.me/cozyyrooom) [![Button](https://badgen.net/badge/discord/discord/yellow?icon=discord&label)](https://discord.gg/UVEjx6UjNT)
 
