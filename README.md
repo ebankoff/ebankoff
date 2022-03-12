@@ -34,10 +34,6 @@ As for my interests, it's simple. I love chess and billiards. I have a yellow be
 * Discord: 𝓝𝓲𝓱𝓲𝓵𝓾𝓼 ©#5674
 * My Discord server: https://discord.gg/UVEjx6UjNT 
 * Steam: https://steamcommunity.com/id/ebankoff
-* Habr: https://habr.com/ru/users/Ebanko/
-* Reddit: https://www.reddit.com/user/Ebankoff
-* Hack The Box: Ebanko#820627
-* Hackerone: https://hackerone.com/ebankoff
 
 [![Something](https://github-readme-stats.vercel.app/api?username=ebankoff&show_icons=true&theme=tokyonight)](https://github.com/ebankoff)
 
