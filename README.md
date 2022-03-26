@@ -1,6 +1,6 @@
 [![Something](https://i.ibb.co/TMvxN8w/image.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLrpgO-fUNO4OKpFbFXb2cQlF72Yj3ppJv)
 
-[![Button](https://badgen.net/badge/BeastBomber/beast_bomber/purple?icon=github&label)](https://github.com/ebankoff/Beast_bomber) [![Button](https://badgen.net/badge/scraper/scraper/purple?icon=github&label)](https://github.com/ebankoff/scraper) [![Button](https://badgen.net/badge/telegram/telegram/yellow?icon=telegram&label)](https://t.me/The_W_T_F) [![Button](https://badgen.net/badge/icon/qiwi/orange?icon=bitcoin&label)](https://qiwi.com/n/HERAMANT)
+[![Button](https://badgen.net/badge/BeastBomber/BeastBomber/purple?icon=github&label)](https://github.com/ebankoff/Beast_bomber) [![Button](https://badgen.net/badge/scraper/scraper/purple?icon=github&label)](https://github.com/ebankoff/scraper) [![Button](https://badgen.net/badge/telegram/telegram/yellow?icon=telegram&label)](https://t.me/The_W_T_F) [![Button](https://badgen.net/badge/icon/qiwi/orange?icon=bitcoin&label)](https://qiwi.com/n/HERAMANT)
 
 ```C++
 #include <iostream>
