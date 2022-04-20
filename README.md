@@ -1,6 +1,6 @@
 [![Something](https://i.ibb.co/TMvxN8w/image.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLrpgO-fUNO4OKpFbFXb2cQlF72Yj3ppJv)
 
-[![Button](https://badgen.net/badge/BeastBomber/BeastBomber/purple?icon=github&label)](https://github.com/ebankoff/Beast_bomber) [![Button](https://badgen.net/badge/scraper/scraper/purple?icon=github&label)](https://github.com/ebankoff/scraper) [![Button](https://badgen.net/badge/telegram/telegram/yellow?icon=telegram&label)](https://t.me/The_W_T_F) [![Button](https://badgen.net/badge/icon/qiwi/orange?icon=bitcoin&label)](https://qiwi.com/n/HERAMANT)
+[![Button](https://badgen.net/badge/BeastBomber/BeastBomber/purple?icon=github&label)](https://github.com/ebankoff/Beast_bomber) [![Button](https://badgen.net/badge/Beast_Bomber/Beast_Bomber/purple?icon=gitlab&label)](https://gitlab.com/ebankoff/Beast_Bomber) [![Button](https://badgen.net/badge/free-proxies-and-useragents/free-proxies-and-useragents/purple?icon=github&label)](https://github.com/ebankoff/free-proxies-and-useragents) [![Button](https://badgen.net/badge/free-proxies-and-useragents/free-proxies-and-useragents/purple?icon=gitlab&label)](https://gitlab.com/ebankoff/free-proxies-and-useragents) [![Button](https://badgen.net/badge/telegram/telegram/yellow?icon=telegram&label)](https://t.me/The_W_T_F) [![Button](https://badgen.net/badge/icon/qiwi/orange?icon=bitcoin&label)](https://qiwi.com/n/HERAMANT)
 
 ```Python
 print('Hello, World!')
