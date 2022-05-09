@@ -22,7 +22,7 @@ As for my interests, it's simple. I love chess and billiards. I have a yellow be
 
 **You can find me here:**
 * Telegram: https://t.me/The_W_T_F
-* Discord: 𝓝𝓲𝓱𝓲𝓵𝓾𝓼 ©#5674
+* Discord: ebankoff#9999
 * Steam: https://steamcommunity.com/id/ebankoff
 
 [![Something](https://github-readme-stats.vercel.app/api?username=ebankoff&show_icons=true&theme=tokyonight)](https://github.com/ebankoff)
