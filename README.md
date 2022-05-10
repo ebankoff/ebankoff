@@ -8,6 +8,8 @@ print('Hello, World!')
 
 **Hi there!**
 
+**I am Russian and I am proud of it. If you have any complaints about the special operation in Ukraine, express them to the Russian government! I'm just a programmer and please only write to me about my repositories on GitHub!**
+
 I'm currently studying to become an information security specialist. 
 I know C++, C#, Python and Swift. In my free time, I develop bots for Discord or Telegram.
 
