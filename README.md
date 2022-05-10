@@ -8,7 +8,11 @@ print('Hello, World!')
 
 **Hi there!**
 
+![Untitled (1)](https://user-images.githubusercontent.com/80776324/167663453-29714902-440a-4e4c-952e-245f96f0a7eb.png)
+
 **I am Russian and I am proud of it. If you have any complaints about the special operation in Ukraine, express them to the Russian government! I'm just a programmer and please only write to me about my repositories on GitHub!**
+
+![Untitled (1)](https://user-images.githubusercontent.com/80776324/167663466-6b588f8e-b014-42cd-8989-e3e47b3c19cc.png)
 
 I'm currently studying to become an information security specialist. 
 I know C++, C#, Python and Swift. In my free time, I develop bots for Discord or Telegram.
