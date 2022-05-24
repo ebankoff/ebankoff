@@ -12,12 +12,9 @@ print('Hi there!')
 
 [![Untitled (1)](https://user-images.githubusercontent.com/80776324/167663466-6b588f8e-b014-42cd-8989-e3e47b3c19cc.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLrpgO-fUNO4OKpFbFXb2cQlF72Yj3ppJv)
 
-I'm currently studying to become an information security specialist. 
-I know C++, C#, Python and Swift. In my free time, I develop bots for Discord or Telegram.
-
+**About me:**
+* I like chess, billiards and spending time with my friends. I study Java and have a yellow belt in karate 🥋. In my free time I develop bots for Telegram and Discord.
 * I'm open to job offers 💼
-
-As for my interests, it's simple. I love chess and billiards. I have a yellow belt in karate🥋 and I love spending time with my friends.
 
 **I make it to order:**
 * Bot for Telegram - **minimum price 46$**
@@ -30,7 +27,9 @@ As for my interests, it's simple. I love chess and billiards. I have a yellow be
 * Steam: https://steamcommunity.com/id/ebankoff
 * Patreon: https://www.patreon.com/ebankoff
 
-[![Something](https://github-readme-stats.vercel.app/api?username=ebankoff&show_icons=true&theme=tokyonight)](https://github.com/ebankoff)
+<p align="center">
+  <img width="480" height="320" src="https://github-readme-stats.vercel.app/api?username=ebankoff&show_icons=true&theme=tokyonight">
+</p>
 
 `Qiwi`
 
