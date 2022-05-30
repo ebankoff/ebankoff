@@ -30,7 +30,7 @@ print('Hi there!')
 * Patreon: https://www.patreon.com/ebankoff
 
 <p align="center">
-  <img width="480" height="320" src="https://github-readme-stats.vercel.app/api?username=ebankoff&show_icons=true&theme=tokyonight">
+  <img width="480" height="320" src="https://github-readme-stats.vercel.app/api?username=ebankoff&show_icons=true&theme=great-gatsby">
 </p>
 
 `Qiwi`
