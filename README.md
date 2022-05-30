@@ -2,11 +2,7 @@
   <img width="600" height="200" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" src="https://i.ibb.co/TMvxN8w/image.png">
 </p>
 
-[![Button](https://badgen.net/badge/patreon/patreon/red?icon=patreon&label)](https://www.patreon.com/ebankoff) [![Button](https://badgen.net/badge/icon/qiwi/orange?icon=bitcoin&label)](https://qiwi.com/n/HERAMANT) [![Button](https://badgen.net/badge/telegram/telegram/blue?icon=telegram&label)](https://t.me/The_W_T_F) [![Button](https://badgen.net/badge/BeastBomber/BeastBomber/white?icon=github&label)](https://github.com/ebankoff/Beast_bomber) [![Button](https://badgen.net/badge/CleanerPRO/CleanerPRO/white?icon=github&label)](https://github.com/ebankoff/CleanerPRO) [![Button](https://badgen.net/badge/overlord/overlord/white?icon=github&label)](https://github.com/ebankoff/overlord) [![Button](https://badgen.net/badge/free-proxies-and-useragents/free-proxies-and-useragents/white?icon=github&label)](https://github.com/ebankoff/free-proxies-and-useragents)
-
-```Python
-print('Hi there!')
-```
+[![Button](https://badgen.net/badge/patreon/patreon/white?icon=patreon&label)](https://www.patreon.com/ebankoff) [![Button](https://badgen.net/badge/icon/qiwi/yellow?icon=bitcoin&label)](https://qiwi.com/n/HERAMANT) [![Button](https://badgen.net/badge/telegram/telegram/white?icon=telegram&label)](https://t.me/The_W_T_F) [![Button](https://badgen.net/badge/BeastBomber/BeastBomber/yellow?icon=github&label)](https://github.com/ebankoff/Beast_bomber) [![Button](https://badgen.net/badge/CleanerPRO/CleanerPRO/white?icon=github&label)](https://github.com/ebankoff/CleanerPRO) [![Button](https://badgen.net/badge/overlord/overlord/yellow?icon=github&label)](https://github.com/ebankoff/overlord) [![Button](https://badgen.net/badge/free-proxies-and-useragents/free-proxies-and-useragents/white?icon=github&label)](https://github.com/ebankoff/free-proxies-and-useragents)
 
 [![Untitled (1)](https://user-images.githubusercontent.com/80776324/167663453-29714902-440a-4e4c-952e-245f96f0a7eb.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLrpgO-fUNO4OKpFbFXb2cQlF72Yj3ppJv)
 
@@ -38,6 +34,7 @@ print('Hi there!')
 [![wtf2](https://i.ibb.co/ryDytyR/Comp-1-00000.png)](https://qiwi.com/n/HERAMANT)
 
 `Crypto`
+
 * **Smart chain: 0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
 * **Bitcoin: bc1qxfvstf99kyuc5x5uugxtsh3m6w3a73ruzfav7e**
 * **Ethereum: 0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
