@@ -21,7 +21,7 @@
 
 **You can find me here:**
 * Telegram: https://t.me/The_W_T_F
-* Discord: ebankoff#9999
+* Discord: ebankoff#2775
 * Steam: https://steamcommunity.com/id/ebankoff
 * Patreon: https://www.patreon.com/ebankoff
 
