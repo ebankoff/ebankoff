@@ -2,7 +2,7 @@
   <img width="556" height="200" src="https://user-images.githubusercontent.com/80776324/172140242-31c8fb26-4d1d-4125-8542-f9a61746df3b.png">
 </p>
 
-[![Button](https://komarev.com/ghpvc/?username=ebankoff&color=yellow)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) [![Button](https://badgen.net/badge/patreon/patreon/white?icon=patreon&label)](https://www.patreon.com/ebankoff) [![Button](https://badgen.net/badge/icon/qiwi/yellow?icon=bitcoin&label)](https://qiwi.com/n/HERAMANT) [![Button](https://badgen.net/badge/telegram/telegram/white?icon=telegram&label)](https://t.me/The_W_T_F) [![Button](https://badgen.net/badge/BeastBomber/BeastBomber/yellow?icon=github&label)](https://github.com/ebankoff/Beast_bomber) [![Button](https://badgen.net/badge/CleanerPRO/CleanerPRO/white?icon=github&label)](https://github.com/ebankoff/CleanerPRO) [![Button](https://badgen.net/badge/overlord/overlord/yellow?icon=github&label)](https://github.com/ebankoff/overlord) [![Button](https://badgen.net/badge/free-proxies-and-useragents/free-proxies-and-useragents/white?icon=github&label)](https://github.com/ebankoff/free-proxies-and-useragents)
+[![Button](https://badgen.net/badge/patreon/patreon/yellow?icon=patreon&label)](https://www.patreon.com/ebankoff) [![Button](https://badgen.net/badge/telegram/telegram/white?icon=telegram&label)](https://t.me/The_W_T_F) [![Button](https://badgen.net/badge/BeastBomber/BeastBomber/yellow?icon=github&label)](https://github.com/ebankoff/Beast_bomber) [![Button](https://badgen.net/badge/CleanerPRO/CleanerPRO/white?icon=github&label)](https://github.com/ebankoff/CleanerPRO) [![Button](https://badgen.net/badge/overlord/overlord/yellow?icon=github&label)](https://github.com/ebankoff/overlord) [![Button](https://badgen.net/badge/free-proxies-and-useragents/free-proxies-and-useragents/white?icon=github&label)](https://github.com/ebankoff/free-proxies-and-useragents)
 
 [![Line 1 (2)](https://user-images.githubusercontent.com/80776324/170914142-79cd8839-ea8c-4217-bb70-abdc6702cd88.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLrpgO-fUNO4OKpFbFXb2cQlF72Yj3ppJv)
 
@@ -31,5 +31,11 @@
 * Ethereum: **0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
 
 <p align="center">
-  <img width="480" height="250" src="https://github-readme-stats.vercel.app/api?username=ebankoff&show_icons=true&theme=great-gatsby">
+  <img width="480" height="220" src="https://github-readme-stats.vercel.app/api?username=ebankoff&show_icons=true&theme=great-gatsby">
 </p>
+
+<div align="center">
+  
+----------------------------</br>
+![](https://komarev.com/ghpvc/?username=ebankoff&color=yellow)
+</div>
