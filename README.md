@@ -25,12 +25,11 @@
 * Steam: https://steamcommunity.com/id/ebankoff
 * Patreon: https://www.patreon.com/ebankoff
 
+**Donate:**
+* Smart chain: **0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
+* Bitcoin: **bc1qxfvstf99kyuc5x5uugxtsh3m6w3a73ruzfav7e**
+* Ethereum: **0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
+
 <p align="center">
-  <img width="480" height="210" src="https://github-readme-stats.vercel.app/api?username=ebankoff&show_icons=true&theme=great-gatsby">
+  <img width="480" height="250" src="https://github-readme-stats.vercel.app/api?username=ebankoff&show_icons=true&theme=great-gatsby">
 </p>
-
-`Donate`
-
-* **Smart chain: 0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
-* **Bitcoin: bc1qxfvstf99kyuc5x5uugxtsh3m6w3a73ruzfav7e**
-* **Ethereum: 0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
