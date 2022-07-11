@@ -5,7 +5,7 @@
 [![Button](https://badgen.net/badge/patreon/patreon/yellow?icon=patreon&label)](https://www.patreon.com/ebankoff) [![Button](https://badgen.net/badge/telegram/telegram/white?icon=telegram&label)](https://t.me/The_W_T_F) [![Button](https://badgen.net/badge/BeastBomber/BeastBomber/yellow?icon=github&label)](https://github.com/ebankoff/Beast_bomber) [![Button](https://badgen.net/badge/CleanerPRO/CleanerPRO/white?icon=github&label)](https://github.com/ebankoff/CleanerPRO) [![Button](https://badgen.net/badge/overlord/overlord/yellow?icon=github&label)](https://github.com/ebankoff/overlord) [![Button](https://badgen.net/badge/free-proxies-and-useragents/free-proxies-and-useragents/white?icon=github&label)](https://github.com/ebankoff/free-proxies-and-useragents)
 
 **About me:**
-* I like chess, billiards and spending time with my friends. I study Java and have a yellow belt in karate 🥋. In my free time I develop bots for Telegram and Discord.
+* I like chess, billiards and spending time with my friends. I'm studying Java and have a yellow belt in karate 🥋. In my free time I develop bots for Telegram and Discord.
 * I'm open to job offers 💼
 
 **I make it to order:**
