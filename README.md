@@ -4,12 +4,6 @@
 
 [![Button](https://badgen.net/badge/patreon/patreon/yellow?icon=patreon&label)](https://www.patreon.com/ebankoff) [![Button](https://badgen.net/badge/telegram/telegram/white?icon=telegram&label)](https://t.me/The_W_T_F) [![Button](https://badgen.net/badge/BeastBomber/BeastBomber/yellow?icon=github&label)](https://github.com/ebankoff/Beast_bomber) [![Button](https://badgen.net/badge/CleanerPRO/CleanerPRO/white?icon=github&label)](https://github.com/ebankoff/CleanerPRO) [![Button](https://badgen.net/badge/overlord/overlord/yellow?icon=github&label)](https://github.com/ebankoff/overlord) [![Button](https://badgen.net/badge/free-proxies-and-useragents/free-proxies-and-useragents/white?icon=github&label)](https://github.com/ebankoff/free-proxies-and-useragents)
 
-[![Line 1 (2)](https://user-images.githubusercontent.com/80776324/170914142-79cd8839-ea8c-4217-bb70-abdc6702cd88.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLrpgO-fUNO4OKpFbFXb2cQlF72Yj3ppJv)
-
-**I'm Russian and I'm proud of it. If you have any complaints about the special operation in Ukraine, express them to the Russian government! I'm just a programmer and please only write to me about my repositories on GitHub!**
-
-[![Line 1 (2)](https://user-images.githubusercontent.com/80776324/170914142-79cd8839-ea8c-4217-bb70-abdc6702cd88.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLrpgO-fUNO4OKpFbFXb2cQlF72Yj3ppJv)
-
 **About me:**
 * I like chess, billiards and spending time with my friends. I study Java and have a yellow belt in karate 🥋. In my free time I develop bots for Telegram and Discord.
 * I'm open to job offers 💼
