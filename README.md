@@ -18,9 +18,10 @@
 * Patreon: https://www.patreon.com/ebankoff
 
 **Donate:**
-* Smart chain: **0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
-* Bitcoin: **bc1qxfvstf99kyuc5x5uugxtsh3m6w3a73ruzfav7e**
-* Ethereum: **0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
+* **BNB: 0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
+* **BTC: bc1qxfvstf99kyuc5x5uugxtsh3m6w3a73ruzfav7e**
+* **ETH: 0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
+* **LTC: ltc1qudx4ge8zvncqpdtl5mshfqjxzyvg43f27ysqjt**
 
 <p align="center">
   <img width="480" height="220" src="https://github-readme-stats.vercel.app/api?username=ebankoff&show_icons=true&theme=great-gatsby">
