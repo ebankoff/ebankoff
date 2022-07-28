@@ -12,7 +12,6 @@
 * Anything else, please ask me
 
 **You can find me here:**
-* Telegram: https://t.me/The_W_T_F
 * Discord: ebankoff#9999
 * Steam: https://steamcommunity.com/id/ebankoff
 * Patreon: https://www.patreon.com/ebankoff
