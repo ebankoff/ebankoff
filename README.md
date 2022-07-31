@@ -12,7 +12,7 @@
 * Anything else, please ask me
 
 **You can find me here:**
-* Discord: ebankoff#9999
+* Discord: ebankoff#4973
 * Telegram: @h_eraman_t
 * Steam: https://steamcommunity.com/id/ebankoff
 * Patreon: https://www.patreon.com/ebankoff
