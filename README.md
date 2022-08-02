@@ -13,7 +13,7 @@
 
 **You can find me here:**
 * Discord: ebankoff#4973
-* Telegram: @h_eraman_t
+* Telegram: https://t.me/h_eraman_t
 * Steam: https://steamcommunity.com/id/ebankoff
 * Patreon: https://www.patreon.com/ebankoff
 
